@@ -1,0 +1,36 @@
+{
+  "status": "ok",
+  "totalResults": 3,
+  "articles": [
+    {
+      "source": { "id": "cnn-es", "name": "CNN Spanish" },
+      "author": "CNN",
+      "title": "Macaulay Culkin aparece por sorpresa en pasarela de Gucci",
+      "description": "Macaulay Culkin, actor de \"Home Alone\", lucía cómodo con un atuendo vibrante durante el desfile de Gucci Love Parade en Hollywood Boulevard.",
+      "url": "https://cnnespanol.cnn.com/2021/11/04/macaulay-culkin-sorpresa-desfile-gucci-trax/",
+      "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2021/11/CNN-Culkin-1.jpg?quality=100&strip=info",
+      "publishedAt": "2021-11-04T08:30:30Z",
+      "content": "Google revive a \"Home Alone\" en este comercial 1:14\r\n(CNN) --Macaulay Culkin a menudo evita ser el centro de atención, pero el martes hizo una aparición sorpresa como modelo durante un desfile de Guc… [+2745 chars]"
+    },
+    {
+      "source": { "id": "cnn-es", "name": "CNN Spanish" },
+      "author": "CNN",
+      "title": "Mira el escape de película que intentó este hombre cuando la policía lo perseguía",
+      "description": "Un helicóptero de la policía captó este video digno de Hollywood cuando el presunto ladrón de un automóvil intentaba escapar de las autoridades. Las | Estados Unidos | CNN",
+      "url": "https://cnnespanol.cnn.com/video/choque-video-espectacular-robo-auto-florida-pkg-digital/",
+      "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2021/11/211103120520-florida-bridge-escape-full-169.jpg?quality=100&strip=info",
+      "publishedAt": "2021-11-04T00:04:26Z",
+      "content": "Un helicóptero de la policía captó este video digno de Hollywood cuando el presunto ladrón de un automóvil intentaba escapar de las autoridades. Las imágenes muestran un fuerte choque, un salto al va… [+52 chars]"
+    },
+    {
+      "source": { "id": "recode", "name": "Recode" },
+      "author": "Nick Statt",
+      "title": "New investigation accuses CBS chief Les Moonves of sexual misconduct",
+      "description": "Les Moonves, the influential 68-year-old chief executive officer of CBS, has been accused of sexual misconduct from six women in a new investigation from journalist Ronan Farrow, whose articles detailing extensive sexual assault and harassment from Hollywood …",
+      "url": "https://www.theverge.com/2018/7/27/17623858/cbs-les-moonves-sexual-harassment-allegations-ronan-farrow-new-yorker-investigation",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/A7p_C8nLnzvtvQxl29kgxKHqN0Q=/0x0:3000x1571/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/11833777/545161920.jpg.jpg",
+      "publishedAt": "2018-07-27T22:54:23Z",
+      "content": "An extensive New Yorker report by Ronan Farrow, whose investigation into Harvey Weinstein had extensive repercussions, suggests the CBS mogul behaved similarly to the Hollywood producer\r\nPhoto by Dre… [+4696 chars]"
+    }
+  ]
+}
